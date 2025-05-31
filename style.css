@@ -1,0 +1,224 @@
+*,
+html{
+ margin: 0;
+ padding: 0;
+}
+
+body {
+ background-color: rgb(0, 0, 0);
+}
+
+.container-navbar{
+    background-color: #1a5e85ac;
+    width: 100%;
+    height: 100px;
+    height: 10vh;
+}
+
+ .ul-navbar {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .li-navbar {
+    
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+    margin: 20px;
+    font-size: 30px;
+ }
+
+ .h5-container {
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(76, 99, 174);
+ }
+
+ .container-content {
+   background-color: rgb(141, 64, 22);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 80vh;
+ }
+
+ .img-content {
+   height: 270;
+   width: 500;
+ }
+
+.a-navbar {
+   color: white;
+   text-decoration: none;
+}
+
+.li-navbar:hover {
+   background-color: rgb(0, 0, 0);
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+}
+
+.a-content {
+   font-size: 30px;
+}
+
+.ul-navbar2 {
+   list-style-type: none;
+   color: rgb(255, 0, 0);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: white;
+   margin: 20px;
+   font-size: 30px;
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.li-navbarr2 {
+   list-style-type: none;
+   color: rgb(255, 0, 0);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: white;
+   margin: 20px;
+   font-size: 30px;
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.warna {
+   background-color: rgb(255, 0, 0);
+}
+
+.balek {
+   list-style-type: none;
+   color: rgb(255, 0, 0);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(0, 0, 0);
+   margin: 20px;
+   font-size: 30px;
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.container-gabut {
+   list-style-type: none;
+   color: rgb(0, 14, 144);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(0, 0, 0);
+   margin: 20px;
+   font-size: 30px;
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+   text-decoration: none;
+}
+.wleee {
+   list-style-type: none;
+   color: rgb(0, 14, 144);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(0, 0, 0);
+   margin: 20px;
+   font-size: 30px;
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.wina {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 10vh;
+}
+
+.emil {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 70vh;
+} 
+
+.halo {
+   color: rgb(255, 255, 255);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.Woi {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.brrr {
+   height: 70vh;
+}
+.dit {
+   color: white;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 50px;
+}
+.jln {
+   list-style-type: none;
+    padding: 10px;
+    color: white;
+    font-size: 50px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.img-content1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 70vh;
+}
+.haji {
+   background-color: white;
+}
+.ul-navbarr {
+   color: rgb(255, 0, 0);
+}
+.a-navbarr {
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 70px;
+}
+.denis {
+   list-style-type: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: white;
+   margin: 20px;
+   font-size: 30px;
+   transition: .5 ease-in-out;
+   transition-delay: .3s;
+   border-radius: 8px;
+   text-decoration: none;
+}

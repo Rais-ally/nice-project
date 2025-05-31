@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Sederhana</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Masukkan Password untuk Melanjutkan</h1>
+    <input type="Haji" id="Haji" placeholder="Password">
+    <button onclick="checkPassword()">Submit</button>
+
+    <script>
+        function checkPassword() {
+            const password = document.getElementById("Haji").value;
+            const correctPassword = "Haji";
+
+            if (password === correctPassword) {
+                // Redirect ke halaman selanjutnya
+                window.location.href = "Rahasia.html";
+            } else {
+                alert("Password salah. Coba lagi.");
+            }
+        }
+    </script>
+        <!-- navbar -->
+            <div>
+                <ul>
+                    <li class="dit">
+                        <a href="https://www.tiktok.com/@raishabibie?is_from_webapp=1&sender_device=pc" class="denis"><h2>Kalo mau dapat Password nya klick disini</h2></a>
+                    </li>
+                </ul>
+            </div>
+        <!-- navbar end -->
+</body>
+</html>
